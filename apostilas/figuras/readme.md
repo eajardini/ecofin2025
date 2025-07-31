@@ -1,0 +1,1 @@
+# DIretorio de imagens
