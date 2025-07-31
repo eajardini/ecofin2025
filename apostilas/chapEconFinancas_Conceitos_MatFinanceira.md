@@ -8,37 +8,36 @@ A **Matemática Financeira** é um corpo de conhecimento que **estuda a
 mudança de valor do dinheiro com o decurso de tempo**.
 
 Qualquer **operação financeira** deve estar estruturada em **[função do
-tempo]{style="color: magenta"}** **[e de uma taxa de
-juros]{style="color: blue"}**. Assim, quando se for realizar alguma
+tempo]** **[e de uma taxa de
+juros]**. Assim, quando se for realizar alguma
 operação financeira, os seguintes elementos estarão envolvidos:
 
--   **[Valor Presente (VP) ou Capital (C) ou
-    Principal]{style="color: blue"}**: é o valor inicial de uma operação
+-   **[Valor Presente (VP) ou Capital (C) ou Principal]*: é o valor inicial de uma operação
     financeira expresso em unidades monetárias como o real. Está
     representando o **instante zero**.
 
--   **[Juros (J)]{style="color: blue"}**: é o valor da remuneração do
+-   **[Juros (J)]**: é o valor da remuneração do
     capital (C) acordado entre o credor e o tomador em uma determinada
     operação financeira.
 
--   **[Taxa de Juros (i)]{style="color: blue"}**: é a taxa acordada para
+-   **[Taxa de Juros (i)]**: é a taxa acordada para
     remuneração do capital em função de um período de tempo. Do ponto de
     vista de quem empresta é o ganho que o credor terá em emprestar o
     dinheiro. Do ponto de vista de quem toma o empréstimo, é o custo que
     se tem em se tomar o dinheiro. É expressa em forma porcentagem.
     Exemplo: 5%.
 
--   **[Tempo (n)]{style="color: blue"}**: número de períodos envolvidos
+-   **[Tempo (n)]**: número de períodos envolvidos
     na operação.
 
--   **[Valor Futuro (VF) ou Montante (M)]{style="color: blue"}**: é a
+-   **[Valor Futuro (VF) ou Montante (M)]**: é a
     soma do capital (C) e do juro (J) que foi acordado na operação
     financeira e que é devido ao seu final. Essa definição mostra a você
     a seguinte relação:
 
 <!-- -->
 
--   **[Inflação]{style="color: blue"}**: é definida como sendo o aumento
+-   **[Inflação]**: é definida como sendo o aumento
     generalizado de preços na economia. Este fenômeno provoca a redução
     do poder aquisitivo da moeda, que nada mais é do que, com a mesma
     quantidade de moedas (unidades monetárias, dinheiro), passar-se a
@@ -48,7 +47,7 @@ operação financeira, os seguintes elementos estarão envolvidos:
 
 Graficamente, reconhecemos esses elementos assim:
 
-![Elementos de uma operação financeira](figuras/Conceitos_basicos_fluxo)
+![Elementos de uma operação financeira](figuras/Conceitos_basicos_fluxo.png)
 
 TAXA DE JUROS
 -------------
