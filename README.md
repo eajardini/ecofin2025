@@ -1,1 +1,1 @@
-# ecofin2025
+# Repositório da disciplina de Economia e Finanças
